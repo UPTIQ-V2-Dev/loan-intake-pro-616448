@@ -1,0 +1,3 @@
+#!/bin/bash
+# This file has been processed and is no longer needed
+echo "Temporary file - can be deleted"
